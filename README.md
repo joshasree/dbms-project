@@ -5,9 +5,9 @@ Introduction :
   We are also providing orphanage login options to create their account to give their details,needs and update their needs that need to be displayed. and orphanages able to know the donations done to their orphanage and the details of volunteer who is intrested.
 
 Tools used :
-⦁	Frontend: HTML,CSS,JavaScript.
-⦁	Backend: PHP
-⦁	DataBase:MySQL
+  ⦁	Frontend: HTML,CSS,JavaScript.
+  ⦁	Backend: PHP
+  ⦁	DataBase:MySQL
 
 Features :
   Login & signup (for orphanage)
