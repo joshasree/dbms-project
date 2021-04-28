@@ -37,4 +37,4 @@ Features :
 Conclusion :
 
 	In our project we are bridging the gap between two sets of people - people who want to give , 
-	who want to try and make a difference along with those who are doing phenomenal work but don’t know how to reach out to the people who want to support them.
+who want to try and make a difference along with those who are doing phenomenal work but don’t know how to reach out to the people who want to support them.
