@@ -5,12 +5,11 @@ Introduction :
   From our project we are providing users(donors) basic knowledge of the orphanages around them and the needs of those orphanages. And we are providing different donation portals like books,cloths,grocery,funds,toys..etc,.And the people who intrested to be volunteer of any orphanage they can register and the conformation details will be sent bt the orphanage.
   We are also providing orphanage login options to create their account to give their details,needs and update their needs that need to be displayed. and orphanages able to know the donations done to their orphanage and the details of volunteer who is intrested.
 
+
 Tools used :
 
-  ⦁	Frontend: HTML,CSS,JavaScript.
-  
-  ⦁	Backend: PHP
-  
+  ⦁	Frontend: HTML,CSS,JavaScript.  
+  ⦁	Backend: PHP  
   ⦁	DataBase:MySQL
 
 
@@ -37,4 +36,5 @@ Features :
 
 Conclusion :
 
-	In our project we are bridging the gap between two sets of people - people who want to give , who want to try and make a difference along with those who are doing phenomenal work but don’t know how to reach out to the people who want to support them.
+	In our project we are bridging the gap between two sets of people - people who want to give , 
+	who want to try and make a difference along with those who are doing phenomenal work but don’t know how to reach out to the people who want to support them.
